@@ -12,12 +12,12 @@ if you try to use this app from source file then you will required python and so
 
 								Thank you🙌 Enjoy😉
 
-Made By	:- 	Abhishek kumar (kk)
-Department	:-	CSE
-Section 	:-	2A1
-Roll no.	:-	T22AJICS010
+Made By	:- 	Abhishek kumar 
 
 
 Any Problem in this Application or you Want to give me feedback about this.
 Please Contact me
-7325010980
+
+git - https://github.com/rex-abhishek/Age_Calculator
+
+linkdin- https://www.linkedin.com/in/abhishek1105/
